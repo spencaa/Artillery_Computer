@@ -1,0 +1,8 @@
+# ninja log v5
+1	309	7026012155111239	build.ninja	4d7a8f36addfd403
+2	285	7026010727073085	CMakeFiles/mortarComputer.dir/main.cpp.obj	773d9d0e822e2bcd
+285	394	7026010728129230	mortarComputer.exe	3223c031f49a8c46
+4	102	7025931294244657	CMakeFiles/mortarComputer.dir/testfile.cpp.obj	2bb8ecc1fa793f8d
+1	144	7026012155111239	build.ninja	4d7a8f36addfd403
+2	284	7026012158700379	CMakeFiles/mortarComputer.dir/main.cpp.obj	773d9d0e822e2bcd
+284	376	7026012159584043	mortarComputer.exe	3223c031f49a8c46
