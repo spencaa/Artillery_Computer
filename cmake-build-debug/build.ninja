@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_mortarComputer: phony || CMakeFiles/mort
 
 build CMakeFiles/mortarComputer.dir/main.cpp.obj: CXX_COMPILER__mortarComputer_Debug C$:/Users/camps/CLionProjects/mortarComputer/main.cpp || cmake_object_order_depends_target_mortarComputer
   DEP_FILE = CMakeFiles\mortarComputer.dir\main.cpp.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -static-libstdc++ -static-libgcc -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\mortarComputer.dir
   OBJECT_FILE_DIR = CMakeFiles\mortarComputer.dir
 
@@ -64,7 +64,7 @@ build CMakeFiles/mortarComputer.dir/main.cpp.obj: CXX_COMPILER__mortarComputer_D
 # Link the executable mortarComputer.exe
 
 build mortarComputer.exe: CXX_EXECUTABLE_LINKER__mortarComputer_Debug CMakeFiles/mortarComputer.dir/main.cpp.obj
-  FLAGS = -g
+  FLAGS = -static-libstdc++ -static-libgcc -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\mortarComputer.dir
   POST_BUILD = cd .
