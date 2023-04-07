@@ -1,3 +1,0 @@
-C:/Users/camps/CLionProjects/mortarComputer/cmake-build-debug/CMakeFiles/mortarComputer.dir
-C:/Users/camps/CLionProjects/mortarComputer/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/camps/CLionProjects/mortarComputer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
