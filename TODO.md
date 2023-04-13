@@ -1,18 +1,12 @@
 TO-DO
 
 PRIORITY
-Add input validation
-    - Make distance an integer
-    - Force the user to enter numbers at an interval of 50
-Allow the user to enter any integer
-    - Find the average between two numbers
+
 Add weather stuff
     - Modify the values in the function if weather effects is selected as on; do some sort of math operation on the
     vanilla numbers
-Add M777 data
-    - All functions for M777 need to be made
-    - Add weather functionality
-    - Make option 2 operable
+Add M119A data
+    - All functions for M119A need to be made
     - Create firing data
 Create GUI
     - Move away from the terminal, create prototype GUI
@@ -27,10 +21,4 @@ Create Arma interface for this
     - Possible Vector 22 integration for a full suite firing computer
 
 UNIMPORTANT
-Refactor files
-    - Put to do and readme in good spots
-    - Rename all M252 assets to Mk6/Podnos
-Create a degrees/mils converter
-    - Used for Vector 22 integration
-    - Rough estimate of mils
-    - Implemented into Arma interface
+Refactor M252 function names
